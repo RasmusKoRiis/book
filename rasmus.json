@@ -497,5 +497,24 @@
     "quoteHenry": "",
     "quoteAndre": "",
     "cover": "https://raw.githubusercontent.com/RasmusKoRiis/book/main/assets/1737197356040-Weasels in the Attic.jpg"
+  },
+  {
+    "id": 1738265334742,
+    "title": "Strange Pictures",
+    "author": "Uketsu",
+    "realeaseDate": "2022",
+    "author_birthyear": "",
+    "genre": "Fiction",
+    "realism_value": "9",
+    "lenght": "240",
+    "country": "Japan",
+    "latitude": "36.2048",
+    "longitude": "138.2529",
+    "description": "Strange Pictures\" is a mystery-horror novel that intertwines seemingly innocent sketches with unsettling narratives, leading readers through a web of unsolved mysteries and psychological intrigue. Each chapter features childlike drawings that serve as disturbing clues, inviting readers to piece together the overarching story.",
+    "readDate": "27 January - 28 January / 2025",
+    "quoteRasmus": "",
+    "quoteHenry": "",
+    "quoteAndre": "",
+    "cover": "https://raw.githubusercontent.com/RasmusKoRiis/book/main/assets/1738265333847-Strange Pictures Book Cover.jpg"
   }
 ]
