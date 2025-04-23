@@ -516,5 +516,24 @@
     "quoteHenry": "",
     "quoteAndre": "",
     "cover": "https://raw.githubusercontent.com/RasmusKoRiis/book/main/assets/1738265333847-Strange Pictures Book Cover.jpg"
+  },
+  {
+    "id": 1745429167856,
+    "title": "Morgon og kveld",
+    "author": "Jon Fosse",
+    "realeaseDate": "2000",
+    "author_birthyear": "1959",
+    "genre": "Fiction",
+    "realism_value": "9",
+    "lenght": "115",
+    "country": "Norway",
+    "latitude": "60.4720",
+    "longitude": "8.4689",
+    "description": "Morning and Evening is a 2000 novella by the Norwegian writer Jon Fosse. It tells the story of a fisherman: the first part of the book is about his birth seen from the perspective of his father, and the second part is about his death, when he revisits important places and moments from his life.",
+    "readDate": "20 April - X / 2025",
+    "quoteRasmus": "",
+    "quoteHenry": "",
+    "quoteAndre": "",
+    "cover": "https://raw.githubusercontent.com/RasmusKoRiis/book/main/assets/1745429166898-Morning and Evening Book Cover.jpg"
   }
 ]
