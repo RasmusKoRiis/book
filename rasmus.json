@@ -535,5 +535,24 @@
     "quoteHenry": "",
     "quoteAndre": "",
     "cover": "https://raw.githubusercontent.com/RasmusKoRiis/book/main/assets/1745429166898-Morning and Evening Book Cover.jpg"
+  },
+  {
+    "id": 1745776715002,
+    "title": "The Factory",
+    "author": "Hiroko Oyamada",
+    "realeaseDate": "2010",
+    "author_birthyear": "1983",
+    "genre": "Fiction",
+    "realism_value": "7",
+    "lenght": "116",
+    "country": "Japan",
+    "latitude": "36.2048",
+    "longitude": "138.2529",
+    "description": "In an unnamed Japanese city, three seemingly normal and unrelated characters find work at a sprawling industrial factory. They each focus intently on their specific jobs: one studies moss, one shreds paper, and the other proofreads incomprehensible documents. Life in the factory has its own logic and momentum, and, eventually, the factory slowly expands and begins to take over everything, enveloping these poor workers. The very margins of reality seem to be dissolving: all forms of life capriciously evolve, strange creatures begin to appear… After a while—it could be weeks or years—the workers don’t even have the ability to ask themselves: where does the factory end and the rest of the world begin?",
+    "readDate": "27 April - X / 2025",
+    "quoteRasmus": "",
+    "quoteHenry": "",
+    "quoteAndre": "",
+    "cover": "https://raw.githubusercontent.com/RasmusKoRiis/book/main/assets/1745776714339-The Factory Hiroko Oyamada.jpg"
   }
 ]
