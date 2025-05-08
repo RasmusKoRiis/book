@@ -554,5 +554,24 @@
     "quoteHenry": "",
     "quoteAndre": "",
     "cover": "https://raw.githubusercontent.com/RasmusKoRiis/book/main/assets/1745776714339-The Factory Hiroko Oyamada.jpg"
+  },
+  {
+    "id": 1746727368569,
+    "title": "The Memory Police",
+    "author": "Yoko Ogawa",
+    "realeaseDate": "1994",
+    "author_birthyear": "1962",
+    "genre": "Fiction",
+    "realism_value": "4",
+    "lenght": "274",
+    "country": "Japan",
+    "latitude": "36.2048",
+    "longitude": "138.2529",
+    "description": "On an unnamed island off an unnamed coast, objects are disappearing: first hats, then ribbons, birds, roses—until things become much more serious. Most of the island's inhabitants are oblivious to these changes, while those few imbued with the power to recall the lost objects live in fear of the draconian Memory Police, who are committed to ensuring that what has disappeared remains forgotten.\n\nWhen a young woman who is struggling to maintain her career as a novelist discovers that her editor is in danger from the Memory Police, she concocts a plan to hide him beneath her floorboards. As fear and loss close in around them, they cling to her writing as the last way of preserving the past.",
+    "readDate": "8 May - X / 2025",
+    "quoteRasmus": "",
+    "quoteHenry": "",
+    "quoteAndre": "",
+    "cover": "https://raw.githubusercontent.com/RasmusKoRiis/book/main/assets/1746727367795-The Memory Police A Novel.jpg"
   }
 ]
